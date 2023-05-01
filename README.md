@@ -1,70 +1,155 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+  <h2><b>ToDo List</b></h2>
+   <h3><b>Readme</b></h3>
 
-In the project directory, you can run:
+</div>
 
-### `npm start`
+<!-- TABLE OF CONTENTS -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 📗 Table of Contents
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+  - [:movie_camera: Project Presentation](#project-presentation)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-### `npm test`
+# MathMagicians <a name="about-project"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Hello there and welcome to one of the best apps to manage your daily activities in a simple way. Welcome to the ToDo List!
 
-### `npm run build`
+## 🛠 Built With <a name="built-with"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tech Stack <a name="tech-stack"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<details>
+    <summary>Client</summary>
+    <ul>
+        <li><a href="https://html.spec.whatwg.org/multipage/">React</a></li>
+        <li><a href="https://html.spec.whatwg.org/multipage/">Webpack</a></li>
+    </ul>
+</details>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<!-- Features -->
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Key Features <a name="key-features"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **[Webpack]**
+- **[Javascript Funcionality]**
+- **[ES6]**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!-- GETTING STARTED -->
 
-### Code Splitting
+## 💻 Getting Started <a name="getting-started"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+### Setup
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Clone this repository to your desired folder: 
 
-### Making a Progressive Web App
+  1 - Go to the <> Code section in the repository. <br></br>
+  2 - Select the https tab and copy the url provided. <br></br>
+  3 - Use the git clone command in the root of the folder where you will save the project.<br></br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Note: For more information you can visit <a href="https://docs.github.com/es/get-started/getting-started-with-git/about-remote-repositories" target="_blank">About remote Repositories</a> and <a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop" target="_blank">Adding and cloning repositories</a>.
 
-### Advanced Configuration
+### Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+In order to run this project you need:
+- Visual Studio Code
+- Git
+- Npm
+- Node
+- Webpack
 
-### Deployment
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<!-- AUTHORS -->
 
-### `npm run build` fails to minify
+## 👥 Author <a name="authors">Hernán Zamora</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- GitHub: [@hernandanielzamora](https://github.com/hernandanielzamora)
+- Twitter: [@HernanZamora14](https://twitter.com/HernanZamora14)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/hernan-zamora-03a697236/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **[Finishing the full website]**
+- [ ] **[Adding Navigation Functions]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- Not Deployed yet.
+
+<!-- Project Presntation -->
+
+## :movie_camera: Project Presentation <a name="project-presentation"></a>
+
+- No presentation yet.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/). Or send them directly to me.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project feel free to let me know via Linkedin - Github - Twitter, also don't forget to leave your ⭐️. I will always appreciate your comments.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+Templete used in project provided by Microverse.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
