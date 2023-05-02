@@ -34,29 +34,29 @@ const Navbar = () => {
   return (
     <>
       <nav>
-        <ul>
+        <ul className="links">
           {links.map((link) => (
-              <React.Fragment key={link.text}>
-                {link.path === 'login' ? (
-                  !user && (
-                    <li>
-                      <NavLink to={link.path}>{link.text}</NavLink>
-                    </li>
-                  )
-                ) : link.path === 'profile' ? (
-                  user && (
-                    <li>
-                      <NavLink to={link.path}>
-                        {link.text}
-                      </NavLink>
-                    </li>
-                  )
-                ) : (
+            <React.Fragment key={link.text}>
+              {link.path === 'login' ? (
+                !user && (
                   <li>
                     <NavLink to={link.path}>{link.text}</NavLink>
                   </li>
-                )}
-              </React.Fragment>
+                )
+              ) : link.path === 'profile' ? (
+                user && (
+                  <li>
+                    <NavLink to={link.path}>
+                      {link.text}
+                    </NavLink>
+                  </li>
+                )
+              ) : (
+                <li>
+                  <NavLink to={link.path}>{link.text}</NavLink>
+                </li>
+              )}
+            </React.Fragment>
           ))}
           {!user && (
             <li className="log-in">
