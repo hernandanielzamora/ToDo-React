@@ -36,7 +36,6 @@ const Navbar = () => {
       <nav>
         <ul>
           {links.map((link) => (
-            <>
               <React.Fragment key={link.text}>
                 {link.path === 'login' ? (
                   !user && (
@@ -58,7 +57,6 @@ const Navbar = () => {
                   </li>
                 )}
               </React.Fragment>
-            </>
           ))}
           {!user && (
             <li className="log-in">
