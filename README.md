@@ -27,7 +27,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# MathMagicians <a name="about-project"></a>
+# ToDo List <a name="about-project"></a>
 
 Hello there and welcome to one of the best apps to manage your daily activities in a simple way. Welcome to the ToDo List!
 
